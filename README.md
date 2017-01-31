@@ -11,3 +11,10 @@ $ composer require misterpaladin/laravel-additional-helpers
 ```
 
 Add `MisterPaladin\LaravelAdditionalHelpers\HelpersProvider::class` in `providers` array in `app.php` file.
+
+
+## Functions
+
+| Function | Reference |
+|:-----------|:---------|
+| path_unique | <strong>path_unique(</strong><em>string</em> <strong>$path</strong>, <em>integer</em> <strong>$suffixLength=3</strong>)</strong> : <em>string</em><br /><em>Generate unique filename for given path</em> |
