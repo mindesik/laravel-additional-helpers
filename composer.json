@@ -1,0 +1,17 @@
+{
+    "name": "misterpaladin/laravel-additional-helpers",
+	"license": "MIT",
+	"description" : "Additional helpers for laravel framework",
+    "authors": [
+        {
+            "name": "Eugene Min",
+            "email": "e.min@milax.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MisterPaladin\\": "src/"
+        }
+    },
+    "require": {}
+}
